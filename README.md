@@ -1,5 +1,5 @@
 <h1>Simon Says Game</h1>
-<p>Developed an interactive Simon Says game using HTML, CSS, and JavaScript. 
+<p>Developed an interactive Simon Says game using HTML, CSS and JavaScript. 
   The game challenges players to remember and replicate sequences of colors, 
   demonstrating my skills in front-end development and interactive design.
 </p>
